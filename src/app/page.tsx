@@ -1,6 +1,7 @@
 import {ImageCarousel} from "@/carousels/image-carousel";
-import Image from "next/image";
 import { StoryCard } from "@/components/story-card"
+/* eslint-disable react/no-unescaped-entities */
+
 
 export default function Home() {
   return (

@@ -1,5 +1,6 @@
 [
     {
+        "id":"1",
       "image": "/park picture.jpg",
       "title": "Rides to the Park",
       "shortStory": "Every evening, my mother would take me and my little sister to the park using the Delhi Metro. We held her hands tightly, giggling as the train zoomed. She never complained — only smiled, even when tired. For us, those rides were adventures. For her, they were love.",
@@ -7,6 +8,7 @@
       "author": "Shashwat Jain"
     },
     {
+        "id":"2",
       "image": "/me and mom old picture.jpg",
       "title": "Finding the Right School",
       "shortStory": "I struggled with severe social anxiety, and school felt like a battlefield. My mother visited countless schools, gently asking if they'd understand. Some turned us away, but she never gave up. She found a place where I could sit, breathe, and be myself.",
@@ -14,6 +16,7 @@
       "author": "Shashwat Jain"
     },
     {
+        "id":"3",
       "image": "/family photo.jpg",
       "title": "The COVID Battle",
       "shortStory": "When COVID hit our home, my mother was the only one who didn't fall sick. She cooked, cleaned, and cared for all three of us — my dad, sister, and me. For two weeks, she slept on the couch outside our rooms. She never got a break, but she gave us all the strength to recover.",

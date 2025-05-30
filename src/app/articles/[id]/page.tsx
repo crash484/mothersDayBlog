@@ -9,7 +9,7 @@ interface ArticlePageProps {
 
 export default function ArticlePage({ params }: ArticlePageProps) {
   const id = parseInt(params.id)
-  const story = stories[id - 1] // because JSON is 0-indexed and your URLs are 1-based
+  const story = stories[id - 1] // because JSON is 0-indexed and the URLs are 1-based
 
   if (!story) return notFound()
 

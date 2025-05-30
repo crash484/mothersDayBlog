@@ -1,6 +1,8 @@
 "use client"
 import Image from "next/image"
 import { Card, CardContent } from "@/components/ui/card"
+/* eslint-disable react/no-unescaped-entities */
+
 
 interface StoryCardProps {
   title: string
